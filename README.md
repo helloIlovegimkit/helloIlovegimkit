@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZhNzNqMWlsbTVvdHV2NThrazY5NHUxcDhyN3lvNHZibWVyczRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohuPDuPHDuGnVtp5u/giphy.gif" width="100"/>
 </div>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=helloIlovegimkit&theme=dark&border_radius=4.9&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloIlovegimkit&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
